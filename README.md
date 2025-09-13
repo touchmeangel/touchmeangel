@@ -17,7 +17,17 @@ My clients’ success is always the top priority. I focus on delivering reliable
 
 - [x] **Zero disputes, full transparency, and upfront communication.** If a project isn’t the right fit, I’ll tell you right away instead of wasting time.  
 
-- [x] Passionate about development for over 5 years and currently pursuing a **Computer Science degree**, giving me both practical and academic grounding.  
+- [x] Passionate about development for over 5 years and currently pursuing a **Computer Science degree**, giving me both practical and academic grounding.
+
+### Projects 📄:
+1. **DEX Arbitrage Bot**
+  - Description: Developed a Solidity Arbitrage bot so it can make me some passive income now.
+  - Technologies: Python (for runtime), Solidity, Web3
+  - [Repository Link](https://github.com/touchmeangel/arbitrage_bot)
+2. **Intelegent Yield Generator** (Ndini)
+  - Description: Web3 intelegent yield generator powered by AI
+  - Technologies: Python, TypeScript, AI, Web3
+  - [Link](https://ndini.xyz/)
 
 ### Payment:
 - 30% upfront, or full payment held securely with a trusted middleman, or platform.
