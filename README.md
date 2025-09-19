@@ -31,4 +31,8 @@ My clients’ success is always the top priority. I focus on delivering reliable
 
 ### Payment:
 - 30% upfront, or full payment held securely with a trusted middleman, or platform.
-- Funds are always safe until final delivery.  
+- Funds are always safe until final delivery.
+
+### Contact:
+<b>Reach me on Telegram at [@touchmeangel](https://t.me/touchmeangel). I do not conduct business anywhere else. Please share the details of your project, and I'll provide a quote and timeline once I have a clear understanding of its scope. There’s no pressure to proceed with my services after we’ve discussed your project. I won’t consider you a ‘time-waster’ if you decide not to move forward. Offering consultations and quotes is simply part of my job.</b>
+
