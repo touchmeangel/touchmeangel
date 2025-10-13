@@ -24,10 +24,6 @@ My clients’ success is always the top priority. I focus on delivering reliable
   - Description: Developed a Solidity Arbitrage bot so it can make me some passive income now.
   - Technologies: Python (for runtime), Solidity, Web3
   - [Repository Link](https://github.com/touchmeangel/arbitrage_bot)
-2. **Intelegent Yield Generator** (Ndini)
-  - Description: Web3 intelegent yield generator powered by AI
-  - Technologies: Python, TypeScript, AI, Web3
-  - [Link](https://ndini.xyz/)
 
 ### Payment:
 - 30% upfront, or full payment held securely with a trusted middleman, or platform.
