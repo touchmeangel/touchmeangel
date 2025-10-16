@@ -25,6 +25,11 @@ My clients’ success is always the top priority. I focus on delivering reliable
   - Technologies: Python (for runtime), Solidity, Web3
   - [Repository Link](https://github.com/touchmeangel/arbitrage_bot)
 
+2. **Tonnel Signals Bot**
+  - Description: Telegram bot which scans marketplace.tonnel.network for perfect auctions to bid in.
+  - Technologies: Go
+  - [Telegram Link](https://t.me/tonnelbids), [Repository Link](https://github.com/touchmeangel/tonnel_bid)
+
 ### Payment:
 - 30% upfront, or full payment held securely with a trusted middleman, or platform.
 - Funds are always safe until final delivery.
