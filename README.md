@@ -10,7 +10,7 @@ My clients’ success is always the top priority. I focus on delivering reliable
 
 - [x] **Backend & Services** — High-performance backend systems, APIs, services, and automation pipelines. Go is my go-to for scalable and concurrent workloads, especially in bot-heavy or service-oriented projects.  
 
-- [x] **ML / AI** - Experience in developing and deploying AI solutions at scale. Expertise in deep learning, analyzing and computer vision with a proven track record of building production-ready models that drive business impact. Strong foundation in Python, TensorFlow, PyTorch, CUDA, and cloud platforms, you name it.
+- [x] **ML / AI** - Experience in developing and deploying AI solutions at scale. Expertise in deep learning, analyzing and computer vision with a proven track record of building production-ready models that drive business impact. Strong foundation in Python, TensorFlow, PyTorch, CUDA, HuggingFace, and cloud platforms, you name it.
 
 ### My Experience:
 - [x] Built and delivered **hundreds of projects** in Web2 & Web3: bots, dashboards, claimers, swappers, browser extensions, smart contracts, APIs, and automation tools, ML algorithms.  
