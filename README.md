@@ -32,6 +32,11 @@ My clients’ success is always the top priority. I focus on delivering reliable
   - Technologies: Go
   - [Telegram Link](https://t.me/tonnelbids), [Repository Link](https://github.com/touchmeangel/tonnel_bid)
 
+3. **Telegram Autobuy Bot**
+  - Description: Telegram one-click deploy gift snipper bot.
+  - Technologies: Python
+  - [Repository Link](https://github.com/touchmeangel/autobuy)
+
 ### Payment:
 - 30% upfront, or full payment held securely with a trusted middleman, or platform.
 - Funds are always safe until final delivery.
