@@ -10,14 +10,16 @@ My clients’ success is always the top priority. I focus on delivering reliable
 
 - [x] **Backend & Services** — High-performance backend systems, APIs, services, and automation pipelines. Go is my go-to for scalable and concurrent workloads, especially in bot-heavy or service-oriented projects.  
 
+- [x] **ML / AI** - Experience in developing and deploying AI solutions at scale. Expertise in deep learning, analyzing and computer vision with a proven track record of building production-ready models that drive business impact. Strong foundation in Python, TensorFlow, PyTorch, CUDA, and cloud platforms, you name it.
+
 ### My Experience:
-- [x] Built and delivered **hundreds of projects** in Web2 & Web3: bots, dashboards, claimers, swappers, browser extensions, smart contracts, APIs, and automation tools.  
+- [x] Built and delivered **hundreds of projects** in Web2 & Web3: bots, dashboards, claimers, swappers, browser extensions, smart contracts, APIs, and automation tools, ML algorithms.  
 
 - [x] Extensive experience in **Telegram, Discord, and automation ecosystems**, with a deep understanding of how communities interact with tools.  
 
 - [x] **Zero disputes, full transparency, and upfront communication.** If a project isn’t the right fit, I’ll tell you right away instead of wasting time.  
 
-- [x] Passionate about development for over 5 years and currently pursuing a **Computer Science degree**, giving me both practical and academic grounding.
+- [x] Passionate about development for over 4 years and currently pursuing a **Computer Science degree**, giving me both practical and academic grounding.
 
 ### Projects 📄:
 1. **DEX Arbitrage Bot**
