@@ -15,8 +15,6 @@ My clients’ success is always the top priority. I focus on delivering reliable
 ### My Experience:
 - [x] Built and delivered **hundreds of projects** in Web2 & Web3: bots, dashboards, claimers, swappers, browser extensions, smart contracts, APIs, and automation tools, ML algorithms.  
 
-- [x] Extensive experience in **Telegram, Discord, and automation ecosystems**, with a deep understanding of how communities interact with tools.  
-
 - [x] **Zero disputes, full transparency, and upfront communication.** If a project isn’t the right fit, I’ll tell you right away instead of wasting time.  
 
 - [x] Passionate about development for over 4 years and currently pursuing a **Computer Science degree**, giving me both practical and academic grounding.
