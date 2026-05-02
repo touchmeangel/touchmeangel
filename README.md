@@ -19,22 +19,6 @@ My clients’ success is always the top priority. I focus on delivering reliable
 
 - [x] Passionate about development for over 4 years and currently pursuing a **Computer Science degree**, giving me both practical and academic grounding.
 
-### Projects 📄:
-1. **DEX Arbitrage Bot**
-  - Description: Developed a Solidity Arbitrage bot so it can make me some passive income now.
-  - Technologies: Python (for runtime), Solidity, Web3
-  - [Repository Link](https://github.com/touchmeangel/arbitrage_bot)
-
-2. **Tonnel Signals Bot**
-  - Description: Telegram bot which scans marketplace.tonnel.network for perfect auctions to bid in.
-  - Technologies: Go
-  - [Telegram Link](https://t.me/tonnelbids), [Repository Link](https://github.com/touchmeangel/tonnel_bid)
-
-3. **Telegram Autobuy Bot**
-  - Description: Telegram one-click deploy gift snipper bot.
-  - Technologies: Python
-  - [Repository Link](https://github.com/touchmeangel/autobuy)
-
 ### Payment:
 - 30% upfront, or full payment held securely with a trusted middleman, or platform.
 - Funds are always safe until final delivery.
@@ -42,3 +26,6 @@ My clients’ success is always the top priority. I focus on delivering reliable
 ### Contact:
 <b>Reach me on Telegram at [@touchmeh](https://t.me/touchmeh). I do not conduct business anywhere else. Please share the details of your project, and I'll provide a quote and timeline once I have a clear understanding of its scope. There’s no pressure to proceed with my services after we’ve discussed your project. I won’t consider you a ‘time-waster’ if you decide not to move forward. Offering consultations and quotes is simply part of my job.</b>
 
+<a href="https://x.com/touchmedame">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=X&color=000000&logo=x&logoColor=FFFFFF&label=" alt="X">
+</a>
