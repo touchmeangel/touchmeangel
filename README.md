@@ -1,6 +1,6 @@
 ### I'm a Python/Go Software Engineer (dev)
 
-Satisfaction guaranteed — or your money back.  
+I build web apps, APIs, bots, and blockchain tools, anything you can only think of. 
 My clients’ success is always the top priority. I focus on delivering reliable results while building long-term collaborations.
 
 ### What I Do:
