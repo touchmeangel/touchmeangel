@@ -1,4 +1,4 @@
-### I'm a Python/Go Software Engineer
+### I'm a Python/Go Software Engineer and security researcher 
 
 I build web apps, APIs, bots, and blockchain tools, anything you can only think of. 
 My clients’ success is always the top priority. I focus on delivering reliable results while building long-term collaborations.
