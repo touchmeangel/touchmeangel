@@ -17,11 +17,11 @@ My clients’ success is always the top priority. I focus on delivering reliable
 
 - [x] Passionate about development for over 4 years and currently pursuing a **Computer Science degree**, giving me both practical and academic grounding.
 
+### Hire
+- [x] Open to freelance contracts, long-term collaborations, full-time job, and technical partnerships.
+
 ### Contact
 <b>Reach me on Telegram at [@touchmeh](https://t.me/touchmeh).
-
-### Hire
-- [x] Open to freelance contracts, long-term collaborations, and technical partnerships.
 
 <a href="https://x.com/tuchmeh">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=X&color=000000&logo=x&logoColor=FFFFFF&label=" alt="X">
