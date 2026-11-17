@@ -1,26 +1,20 @@
-### I'm a Software Engineer specializing in distributed systems, ML and AI
+### I'm a ML Engineer specializing in distributed systems
 
 I build web apps, APIs, bots, and blockchain tools, anything you can only think of. 
 My clients’ success is always the top priority. I focus on delivering reliable results while building long-term collaborations.
 
 ### What I Do
-- [x] **Backend & Services** — High-performance backend systems, APIs, services, and automation pipelines. Go is my go-to for scalable and concurrent workloads, especially in bot-heavy or service-oriented projects.  
-
 - [x] **ML / AI** - Experience in developing and deploying AI solutions at scale. Expertise in deep learning, analyzing and computer vision with a proven track record of building production-ready models that drive business impact. Strong foundation in Python, TensorFlow, PyTorch, CUDA, HuggingFace, and cloud platforms, you name it.
+
+- [x] **Backend & Services** — High-performance backend systems, APIs, services, and automation pipelines. Go is my go-to for scalable and concurrent workloads, especially in bot-heavy or service-oriented projects.  
 
 ### My Experience
 - [x] Built and delivered **hundreds of projects** in Web2 & Web3: bots, dashboards, claimers, swappers, browser extensions, smart contracts, APIs, and automation tools, ML algorithms.
-
-- [x] **Zero disputes, full transparency, and upfront communication.** If a project isn’t the right fit, I’ll tell you right away instead of wasting time.  
-
+      
 - [x] Passionate about development for over 4 years and currently pursuing a **Computer Science degree**, giving me both practical and academic grounding.
 
 ### Hire
-- [x] Open to freelance contracts, long-term collaborations, full-time job, and technical partnerships.
+- [x] Open to part-time job, freelance contracts, long-term collaborations, and technical partnerships.
 
 ### Contact
 <b>Reach me on Telegram at [@touchmeh](https://t.me/touchmeh).
-
-<a href="https://x.com/tuchmeh">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=X&color=000000&logo=x&logoColor=FFFFFF&label=" alt="X">
-</a>
